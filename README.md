@@ -1,8 +1,9 @@
 # Unicode-rbx
 Unicode library for Roblox
 
---[[
-API:
+**API:**
+```
+
 
 Unicode.sub(str, startIndex, endIndex)
 Unicode.contains(inputValue, patternValue)
@@ -56,4 +57,4 @@ Unicode.BasicSymbolsBlocklist { string }
 Unicode.pass(str, font, { Unsupported, NonCharacter, ZeroWidth, NonScript, SpecialArea }, blocklist, filter)
 
 For Unicode 16.0.0
-]]
+```
