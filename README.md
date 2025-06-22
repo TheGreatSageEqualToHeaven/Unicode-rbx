@@ -3,8 +3,6 @@ Unicode library for Roblox
 
 **API:**
 ```
-
-
 Unicode.sub(str, startIndex, endIndex)
 Unicode.contains(inputValue, patternValue)
 
