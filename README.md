@@ -56,3 +56,10 @@ Unicode.pass(str, font, { Unsupported, NonCharacter, ZeroWidth, NonScript, Speci
 
 For Unicode 16.0.0
 ```
+
+**Lists:**  
+[emoji-test (official)](https://unicode.org/Public/emoji/16.0/emoji-test.txt)  
+[scripts (official)](https://www.unicode.org/Public/UNIDATA/Scripts.txt)  
+[confusables (official)](http://www.unicode.org/Public/security/16.0.0/confusables.txt)  
+[blocks (official)](https://unicode.org/Public/UNIDATA/Blocks.txt)  
+[ccnorm](https://github.com/brynne8/ccnorm)  
